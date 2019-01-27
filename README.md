@@ -4,7 +4,7 @@ this project contains the Arduino code and evantualy the schematics for a irl bu
 # arduino?
 it is written for an esp8266 in the arduino ide version 1.8.6 for mac
 
-#librerys?
+# librerys?
 yes, the includs you need are:
 ``` c
 #include <ESP8266HTTPClient.h>
