@@ -5,6 +5,12 @@
 #define password "*****" // "password"
 int x = 0;
 
+/* todo:
+ * file withe diferend ssid's and paswords to check
+ * save the curent valu
+ * add 7seg disp suport
+ */
+
 void connectToWifi() {
   Serial.print("Connecting to: "); //uncomment next line to show SSID name
   Serial.println(ssid);
