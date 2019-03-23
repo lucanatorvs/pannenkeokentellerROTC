@@ -1,8 +1,6 @@
 #include <ESP8266HTTPClient.h>
 #include <ESP8266WiFi.h>
 
-#define ssid "*****" // "ssid"
-#define password "*****" // "password"
 int x = 0;
 
 /* todo:
